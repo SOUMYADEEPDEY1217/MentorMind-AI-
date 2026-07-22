@@ -1,0 +1,47 @@
+{
+  "collections": {
+    "users": {
+      "description": "User accounts with roles (student or teacher)",
+      "schema": {
+        "email": "string",
+        "role": "string",
+        "name": "string"
+      }
+    },
+    "students": {
+      "description": "Student cognitive profiles and learning metrics",
+      "schema": {
+        "name": "string",
+        "email": "string",
+        "teacherId": "string",
+        "style": "string",
+        "speed": "string",
+        "strengths": "array",
+        "weaknesses": "array",
+        "xp": "number",
+        "level": "number",
+        "streak": "number",
+        "badges": "array",
+        "completedNodes": "array",
+        "bookmarkedNodes": "array",
+        "nodeScores": "map",
+        "lastActive": "string",
+        "predictedScore": "number",
+        "criticalIssue": "string",
+        "remedyAction": "string",
+        "remedyStatus": "string"
+      }
+    },
+    "teachers": {
+      "description": "Teacher profiles and dashboard configurations",
+      "schema": {
+        "name": "string",
+        "email": "string",
+        "classroomVibe": "string",
+        "targetBaseline": "number",
+        "retrievalInterval": "number",
+        "automatedIntervention": "boolean"
+      }
+    }
+  }
+}
