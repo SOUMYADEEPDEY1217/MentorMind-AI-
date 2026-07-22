@@ -1,0 +1,12 @@
+{
+  "projectId": "mentormind-ai-14a28",
+  "appId": "1:70128621157:web:0f6a1c81c731b28b10d88c",
+  "apiKey": "YOUR_FIREBASE_API_KEY",
+  "authDomain": "mentormind-ai-14a28.firebaseapp.com",
+  "firestoreDatabaseId": "ai-studio-mentormindai-98d34d6e-5e71-447d-9a0b-bc9c9fe2b993",
+  "storageBucket": "mentormind-ai-14a28.firebasestorage.app",
+  "messagingSenderId": "70128621157",
+  "measurementId": "",
+  "oAuthClientId": "70128621157-5q127bqlvsp4mk80jdknhmjsse66ito3.apps.googleusercontent.com",
+  "recaptchaSiteKey": ""
+}
