@@ -1,0 +1,6 @@
+{
+  "name": "MentorMind AI",
+  "description": "An AI-powered learning psychologist that builds a digital learning DNA profile. Features a 3D interactive knowledge graph to visualize subject connections, forgetting curve predictions, adaptive explanations, and gamified progress dashboards.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
